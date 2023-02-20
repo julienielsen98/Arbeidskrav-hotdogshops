@@ -3,6 +3,7 @@ import { styled } from "@mui/material/styles";
 import Button from "@mui/material/Button";
 import TextField from "@mui/material/TextField";
 import DeleteIcon from "@mui/icons-material/Delete";
+import styling from "./List.module.scss";
 
 const Wrapper = styled("div")(({ theme }) => ({
   display: "flex",
@@ -40,7 +41,7 @@ const Edit = ({ stores, i, setStores }) => {
   };
 
   return (
-    <Wrapper>
+    <Wrapper className={styling.edit}>
       <TextField
         label="Name"
         name="name"
