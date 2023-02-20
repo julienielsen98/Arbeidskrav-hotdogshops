@@ -35,7 +35,7 @@ function Map() {
   return (
     <ReactMapGL
       mapStyle="mapbox://styles/juliep98/cldwwz1yp000h01t84rju6235"
-      mapboxAccessToken={process.env.mapbox_key}
+      mapboxAccessToken="pk.eyJ1IjoianVsaWVwOTgiLCJhIjoiY2xkdnM4aTBpMDBqYjNzbXlxems1NTNsZSJ9.DeGrRK8Xo6MqPnKMkznFeQ"
       {...viewport}
       onZoom={(nextViewport) => setViewport(nextViewport)}
       onDrag={(nextViewport) => setViewport(nextViewport)}
