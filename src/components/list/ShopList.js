@@ -65,7 +65,7 @@ export default function ShopsList() {
               height={300}
               blurDataURL="data:..."
               placeholder="blur"
-              src={`${process.env.assetPrefix}${store.img}`}
+              src={`/${process.env.assetPrefix}${store.img}`}
             />
 
             <CardContent>
