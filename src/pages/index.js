@@ -9,8 +9,9 @@ const darkTheme = createTheme({
   },
 });
 import ShopsList from "@/components/list/ShopList";
-import Navbar from "@/components/navbar/navbar";
+
 import { AdminContext } from "@/components/context/Contexts";
+import Navbar from "@/components/navbar/Navbar";
 
 export default function Home() {
   return (
