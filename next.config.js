@@ -4,6 +4,7 @@ const nextConfig = {
   env: {
     mapbox_key:
       "pk.eyJ1IjoianVsaWVwOTgiLCJhIjoiY2xkdnM4aTBpMDBqYjNzbXlxems1NTNsZSJ9.DeGrRK8Xo6MqPnKMkznFeQ",
+    assetPrefix: "/",
   },
 };
 
