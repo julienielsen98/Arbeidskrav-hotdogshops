@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Shell Sandefjord",
+    "shortName": "SS",
+    "color": "lightseagreen",
+    "address": "Vesterøyveien 1, 3235 Sandefjord",
+    "lat": 59.127856712446494,
+    "lng": 10.243043115791954,
+    "img": "/../public/shell-sandefjord.jpeg",
+    "stats": {
+      "rating": 4.0,
+      "reviewCount": 5
+    }
+  },
+  {
+    "id": 2,
+    "name": "Esso Sandefjord",
+    "shortName": "ES",
+    "color": "rgb(35, 95, 111)",
+    "address": "Kilgata 20, 3217 Sandefjord",
+    "lat": 59.12849494169126,
+    "lng": 10.239907947041967,
+    "img": "/../public/esso.jpeg",
+    "stats": {
+      "rating": 4.0,
+      "reviewCount": 5
+    }
+  },
+  {
+    "id": 3,
+    "name": "Hotdog Central",
+    "shortName": "HC",
+    "color": "rgb(86, 82, 113)",
+    "address": "Storgata 1, 3201 Sandefjord",
+    "lat": 59.132,
+    "lng": 10.2167,
+    "img": "/../public/hotdog-central.jpeg",
+    "stats": {
+      "rating": 5.0,
+      "reviewCount": 5
+    }
+  },
+  {
+    "id": 4,
+    "name": "The Hotdog House",
+    "shortName": "THD",
+    "color": "rgb(113, 82, 108)",
+    "address": "Kirkegata 2, 3202 Sandefjord",
+    "lat": 59.1354,
+    "lng": 10.2174,
+    "img": "/../public/the-hotdog-house.jpeg",
+    "stats": {
+      "rating": 4.0,
+      "reviewCount": 5
+    }
+  },
+  {
+    "id": 5,
+    "name": "Hotdog Heaven",
+    "shortName": "HH",
+    "color": "rgb(82, 113, 88)",
+    "address": "Torget 4, 3203 Sandefjord",
+    "lat": 59.1337,
+    "lng": 10.219,
+    "img": "/../public/hotdog-heaven.jpeg",
+    "stats": {
+      "rating": 3.0,
+      "reviewCount": 5
+    }
+  },
+  {
+    "id": 6,
+    "name": "Hotdog Factory",
+    "shortName": "HF",
+    "color": "rgb(95, 161, 120)",
+    "address": "Strandgata 5, 3204 Sandefjord",
+    "lat": 59.1312,
+    "lng": 10.2157,
+    "img": "/../public/hotdogfactory.jpeg",
+    "stats": {
+      "rating": 3.0,
+      "reviewCount": 5
+    }
+  },
+  {
+    "id": 7,
+    "name": "Pølsenilsen",
+    "shortName": "PN",
+    "color": "lightseagreen",
+    "address": "Torget 11, 3210 Sandefjord",
+    "lat": 59.13112839598595,
+    "lng": 10.22521934424855,
+    "img": "/../public/pølsenilsen.jpeg",
+    "stats": {
+      "rating": 4.0,
+      "reviewCount": 5
+    }
+  }
+]
