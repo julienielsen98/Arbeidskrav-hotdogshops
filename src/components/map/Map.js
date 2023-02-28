@@ -75,7 +75,7 @@ function Map() {
                     height={140}
                     blurDataURL="data:..."
                     placeholder="blur"
-                    src={result.img}
+                    src={`/${process.env.assetPrefix}${result.Img}`}
                   />
                   <CardContent>
                     <Typography gutterBottom variant="h5" component="div">

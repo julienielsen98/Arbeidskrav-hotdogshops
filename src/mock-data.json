@@ -7,7 +7,7 @@
     "address": "Vesterøyveien 1, 3235 Sandefjord",
     "lat": 59.127856712446494,
     "lng": 10.243043115791954,
-    "img": "../public/shell-sandefjord.jpeg",
+    "Img": "../public/shell-sandefjord.jpeg",
     "stats": {
       "rating": 4.0,
       "reviewCount": 5
@@ -21,7 +21,7 @@
     "address": "Kilgata 20, 3217 Sandefjord",
     "lat": 59.12849494169126,
     "lng": 10.239907947041967,
-    "img": "../public/esso.jpeg",
+    "Img": "../public/esso.jpeg",
     "stats": {
       "rating": 4.0,
       "reviewCount": 5
@@ -35,7 +35,7 @@
     "address": "Storgata 1, 3201 Sandefjord",
     "lat": 59.132,
     "lng": 10.2167,
-    "img": "../public/hotdog-central.jpeg",
+    "Img": "../public/hotdog-central.jpeg",
     "stats": {
       "rating": 5.0,
       "reviewCount": 5
@@ -49,7 +49,7 @@
     "address": "Kirkegata 2, 3202 Sandefjord",
     "lat": 59.1354,
     "lng": 10.2174,
-    "img": "../public/the-hotdog-house.jpeg",
+    "Img": "../public/the-hotdog-house.jpeg",
     "stats": {
       "rating": 4.0,
       "reviewCount": 5
@@ -63,7 +63,7 @@
     "address": "Torget 4, 3203 Sandefjord",
     "lat": 59.1337,
     "lng": 10.219,
-    "img": "../public/hotdog-heaven.jpeg",
+    "Img": "../public/hotdog-heaven.jpeg",
     "stats": {
       "rating": 3.0,
       "reviewCount": 5
@@ -77,7 +77,7 @@
     "address": "Strandgata 5, 3204 Sandefjord",
     "lat": 59.1312,
     "lng": 10.2157,
-    "img": "../public/hotdogfactory.jpeg",
+    "Img": "../public/hotdogfactory.jpeg",
     "stats": {
       "rating": 3.0,
       "reviewCount": 5
@@ -91,7 +91,7 @@
     "address": "Torget 11, 3210 Sandefjord",
     "lat": 59.13112839598595,
     "lng": 10.22521934424855,
-    "img": "../public/pølsenilsen.jpeg",
+    "Img": "../public/pølsenilsen.jpeg",
     "stats": {
       "rating": 4.0,
       "reviewCount": 5
